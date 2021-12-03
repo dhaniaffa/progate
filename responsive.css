@@ -102,3 +102,14 @@
     }
 
 }
+
+@media(max-width: 508px){
+
+    .filter{
+        padding: 80px 50px;
+    }
+
+    .service{
+        height: 1350px;
+    }
+}
